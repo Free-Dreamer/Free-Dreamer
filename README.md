@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Free-Dreamer
 - 👀 I’m interested in distributed machine learning, especially federated learning.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on amazing works on federated learning.
+- 🌱 I’m currently learning reinforcement learning.
+- 💞️ I’m looking to collaborate on amazing works on reinforcement learning.
 - 📫 How to reach me ...
 
 <!---
